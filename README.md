@@ -7,19 +7,30 @@ Wplaceで、日本の北海道稚内市に "最果てのゴーティス"*1 を�
 https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=17754&request_locale=ja  
   
 # 完成イメージ
-![artimage](https://github.com/draco-centauros/Wplace-Ghoti_of_the_Deep_Beyond/blob/main/img/1_image.png?raw=true) ← リンク未設定
+![artimage](https://github.com/draco-centauros/Wplace-Ghoti_of_the_Deep_Beyond/blob/main/img/1_image.png?raw=true)  
   
 # 作業状況
-![progress]() ← リンク未設定
+![progress](https://github.com/draco-centauros/Wplace-Ghoti_of_the_Deep_Beyond/blob/main/img/2_progress.png?raw=true)  
+
+- 白く塗りつぶしているブロックは完了しています。
+- それ以外の箇所は未着手または作業中です。
   
 # 設計図
-このイラストは、次のように進めています。  
   
-### 場所
-![place]() ← リンク未設定
+## サイズ
+このイラストは、横256ドット×縦256ドットの計65,536ドットで構成されています。
+
+単純にドット数が多く、複数の色が散乱していて、そのまま作業すると管理が難しいと感じました。
+
+そのため、横16ドット×縦16ドットの計256ドットを1ブロックとし、
+このイラストを横16ブロック×縦16ブロックの計256ブロックに分割して管理することにしました。
+
+![size](https://github.com/draco-centauros/Wplace-Ghoti_of_the_Deep_Beyond/blob/main/img/3_size.png?raw=true)
+
+ブロック間を赤い線で区切っています。← 赤線は塗らないで！
   
-### サイズ
-![size]() ← リンク未設定
-  
-### カラーパレット
-![color]() ← リンク未設定
+## カラーパレット
+この辺りの色を使用します。うろ覚えです。
+![color](https://github.com/draco-centauros/Wplace-Ghoti_of_the_Deep_Beyond/blob/main/img/4_color.png?raw=true)
+
+厳密に管理していないため、塗った色が大体あっていればOKです。
