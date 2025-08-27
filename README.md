@@ -5,15 +5,21 @@ Wplaceで、日本の北海道稚内市に "最果てのゴーティス"*1 を�
 *1  
 "最果てのゴーティス" とは、遊戯王オフィシャルカードゲーム デュエルモンスターズに登場する魚族のモンスターです。  
 https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=17754&request_locale=ja  
+
+
   
 # 完成イメージ
 ![artimage](https://github.com/draco-centauros/Wplace-Ghoti_of_the_Deep_Beyond/blob/main/img/1_image.png?raw=true)  
+
+
   
 # 作業状況
 ![progress](https://github.com/draco-centauros/Wplace-Ghoti_of_the_Deep_Beyond/blob/main/img/2_progress.png?raw=true)  
 
 - 白く塗りつぶしているブロックは完了しています。
 - それ以外の箇所は未着手または作業中です。
+
+
   
 # 設計図
   
