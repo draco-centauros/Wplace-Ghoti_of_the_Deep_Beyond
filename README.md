@@ -9,6 +9,8 @@ https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=17754&reque
     
 # 完成イメージ
 ![artimage](https://github.com/draco-centauros/Wplace-Ghoti_of_the_Deep_Beyond/blob/main/img/1_image.png?raw=true)  
+
+こうして見ると、思ったより小さいですね...🙄
   
   
   
