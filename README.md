@@ -19,6 +19,8 @@ https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=17754&reque
   
 - 白く塗りつぶしているブロックは完了しています。
 - それ以外の箇所は未着手または作業中です。
+
+上図を目視で確認しながら色を塗る、アナログ戦法で進めています。
   
   
   
