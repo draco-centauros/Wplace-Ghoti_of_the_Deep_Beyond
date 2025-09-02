@@ -13,6 +13,8 @@ https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=17754&reque
   
   
 # 作業状況
+もう少し・・・！  
+  
 ![progress](https://github.com/draco-centauros/Wplace-Ghoti_of_the_Deep_Beyond/blob/main/img/2_progress.png?raw=true)  
   
 - 白塗り：完了
