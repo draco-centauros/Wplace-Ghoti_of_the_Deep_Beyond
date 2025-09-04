@@ -4,24 +4,25 @@ Wplaceで、日本の北海道稚内市に "最果てのゴーティス" を描�
   
 "最果てのゴーティス" とは、遊戯王オフィシャルカードゲーム デュエルモンスターズに登場する魚族のモンスターです。  
 https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=17754&request_locale=ja  
+
   
-  
-    
+
 # 完成イメージ
 ![artimage](https://github.com/draco-centauros/Wplace-Ghoti_of_the_Deep_Beyond/blob/main/img/1_image.png?raw=true)  
+
   
-  
-  
+
 # 作業状況
-もう少し・・・！  
+完成！ 手伝ってくださった方々、ありがとうございました m(_ _)m  
+![finish](https://github.com/draco-centauros/Wplace-Ghoti_of_the_Deep_Beyond/blob/main/img/5_finish.png?raw=true)  
+  
+- 白塗り：完了  
+- 未塗り：未着手、作業中  
   
 ![progress](https://github.com/draco-centauros/Wplace-Ghoti_of_the_Deep_Beyond/blob/main/img/2_progress.png?raw=true)  
+
   
-- 白塗り：完了
-- 未塗り：未着手、作業中
-   
-  
-  
+
 # 設計図
   
 ## サイズ
@@ -37,7 +38,7 @@ https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=17754&reque
 ブロック間を赤い線で区切っています。← 赤線は塗らないで！
   
 ## カラーパレット
-この辺りの色を使用します（うろ覚え）  
+この辺りの色を使用します。
 
 ![color](https://github.com/draco-centauros/Wplace-Ghoti_of_the_Deep_Beyond/blob/main/img/4_color.png?raw=true)
 
